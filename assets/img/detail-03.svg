@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder 1:1 sorotan. Ganti dengan tangkapan layar (assets/img/detail-03.jpg). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800"
+     role="img" aria-label="Placeholder sorotan">
+  <rect width="800" height="800" fill="#D8D5CF"/>
+  <path d="M0 596h800v204H0z" fill="#C6C2BA"/>
+  <path d="M261 210h278l80 128-69 59-32-43v182H284V354l-32 43-69-59z" fill="#9E9A92"/>
+  <g stroke="#8C887F" stroke-width="2.5" fill="none" opacity=".55">
+    <path d="M349 242v326M400 242v326M451 242v326M284 354h232"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder proses. Ganti dengan foto prosesmu (assets/img/process.jpg). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" width="900" height="1000"
+     role="img" aria-label="Placeholder proses">
+  <rect width="900" height="1000" fill="#D8D5CF"/>
+  <path d="M0 745h900v255H0z" fill="#C6C2BA"/>
+  <path d="M294 265h312l90 144-78 66-36-48v273H318V427l-36 48-78-66z" fill="#9E9A92"/>
+  <g stroke="#8C887F" stroke-width="3" fill="none" opacity=".55">
+    <path d="M393 304v326M450 304v326M507 304v326M318 427h264"/>
+  </g>
+</svg>

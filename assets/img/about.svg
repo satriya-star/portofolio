@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder 3:4. Ganti dengan potretmu (assets/img/about.jpg). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800"
+     role="img" aria-label="Placeholder potret">
+  <rect width="600" height="800" fill="#D8D5CF"/>
+  <path d="M0 596h600v204H0z" fill="#C6C2BA"/>
+  <path d="M196 210h208l60 96-52 44-24-32v182H212V318l-24 32-52-44z" fill="#9E9A92"/>
+  <g stroke="#8C887F" stroke-width="2" fill="none" opacity=".55">
+    <path d="M262 236v244M300 236v244M338 236v244M212 318h176"/>
+  </g>
+</svg>

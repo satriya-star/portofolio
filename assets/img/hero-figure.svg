@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Figur untuk hero. Ini siluet sederhana, bukan foto — yang diperlukan
+  hanya supaya wordmark di belakangnya punya sesuatu untuk "menembus",
+  dan supaya huruf tetap terbaca di antara kaki dan di bawah lengan.
+
+  Ganti dengan PNG transparan kalau punya: simpan sebagai
+  hero-figure.png lalu ubah src di index.html. viewBox di bawah
+  dijaga 300x560 supaya proporsinya sama dengan tinggi yang dipatok CSS.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 560" width="300" height="560"
+     role="img" aria-label="Siluet orang mengenakan mantel panjang">
+  <g fill="#26262A">
+    <!-- kepala + leher -->
+    <ellipse cx="150" cy="62" rx="27" ry="31"/>
+    <path d="M137 84h26v22h-26z"/>
+    <!-- badan & mantel -->
+    <path d="M150 98c-30 0-52 12-64 30l-22 78 30 16 14-30-8 148h100l-8-148 14 30 30-16-22-78c-12-18-34-30-64-30z"/>
+    <!-- lengan -->
+    <path d="M64 210l-10 128 26 4 12-116zM236 210l10 128-26 4-12-116z"/>
+    <!-- kaki -->
+    <path d="M118 340h26l-4 168h-30zM156 340h26l8 168h-30z"/>
+  </g>
+  <!-- garis lipatan mantel, supaya tidak terbaca sebagai siluet polos -->
+  <g stroke="#0E0E10" stroke-width="2.5" fill="none" opacity=".55">
+    <path d="M128 176v148M150 176v148M172 176v148"/>
+  </g>
+</svg>
